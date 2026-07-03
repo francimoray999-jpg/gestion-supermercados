@@ -178,6 +178,7 @@ def ver_carrito():
 # MODIFICAR CANTIDAD
 # -------------------------
 
+# Función que permite modificar la cantidad de un producto en el carrito
 def modificar_cantidad():
 
     if len(carrito) == 0:
