@@ -144,6 +144,7 @@ def agregar_producto():
 # VER CARRITO
 # -------------------------
 
+# Función que muestra los productos agregados al carrito de compras
 def ver_carrito():
 
     if len(carrito) == 0:
