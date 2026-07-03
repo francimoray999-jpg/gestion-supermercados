@@ -60,6 +60,7 @@ def mostrar_menu():
 # MOSTRAR PRODUCTOS
 # -------------------------
 
+# Función que muestra el catálogo completo de productos disponibles
 def mostrar_productos():
 
     print("\nLISTA DE PRODUCTOS\n")
