@@ -247,6 +247,7 @@ def eliminar_producto():
 # CALCULAR TOTAL
 # -------------------------
 
+# Función que calcula el subtotal, descuento y total de la compra
 def calcular_total():
 
     subtotal = 0
