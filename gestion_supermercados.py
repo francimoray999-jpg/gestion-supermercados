@@ -29,6 +29,7 @@ productos = {
 # Carrito donde se almacenan los productos seleccionados
 carrito = []
 
+# Variables utilizadas para registrar las ventas del supermercado
 ventas_realizadas = 0
 total_vendido = 0
 productos_vendidos = {}
