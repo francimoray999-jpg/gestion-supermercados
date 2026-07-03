@@ -433,6 +433,7 @@ def estadisticas():
 # PROGRAMA PRINCIPAL
 # -------------------------
 
+# Función principal que controla el flujo de ejecución del sistema
 def main():
 
     while True:
