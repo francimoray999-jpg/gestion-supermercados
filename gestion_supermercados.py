@@ -491,4 +491,5 @@ def main():
 # INICIO DEL PROGRAMA
 # -------------------------
 
+# Punto de inicio del programa
 main()
