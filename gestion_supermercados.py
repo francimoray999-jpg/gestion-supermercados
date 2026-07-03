@@ -26,6 +26,7 @@ productos = {
     10: {"nombre": "Chocolate", "precio": 2900}
 }
 
+# Carrito donde se almacenan los productos seleccionados
 carrito = []
 
 ventas_realizadas = 0
@@ -37,6 +38,7 @@ productos_vendidos = {}
 # FUNCION MENU
 # -------------------------
 
+# Función encargada de mostrar el menú principal al usuario
 def mostrar_menu():
 
     print("\n==============================")
