@@ -12,6 +12,7 @@
 # VARIABLES GLOBALES
 # -------------------------
 
+# Catálogo inicial de productos del supermercado
 productos = {
     1: {"nombre": "Leche", "precio": 1800},
     2: {"nombre": "Pan", "precio": 1200},
