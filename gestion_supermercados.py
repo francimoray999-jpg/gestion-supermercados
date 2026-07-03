@@ -215,6 +215,7 @@ def modificar_cantidad():
 # ELIMINAR PRODUCTO
 # -------------------------
 
+# Función que elimina un producto del carrito de compras
 def eliminar_producto():
 
     if len(carrito) == 0:
