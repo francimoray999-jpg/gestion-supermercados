@@ -279,6 +279,7 @@ def calcular_total():
 # PROMOCION
 # -------------------------
 
+# Función que aplica promociones según el tipo de cliente
 def aplicar_promocion(total):
 
     respuesta = input(
