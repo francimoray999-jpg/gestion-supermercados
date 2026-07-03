@@ -92,6 +92,7 @@ def buscar_producto(codigo):
 # AGREGAR PRODUCTO
 # -------------------------
 
+# Función que permite agregar productos al carrito de compras
 def agregar_producto():
 
     mostrar_productos()
