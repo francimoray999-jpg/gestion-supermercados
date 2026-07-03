@@ -295,6 +295,7 @@ def aplicar_promocion(total):
 # FINALIZAR COMPRA
 # -------------------------
 
+# Función que procesa la compra, calcula el total y registra la venta
 def finalizar_compra():
 
     global ventas_realizadas
