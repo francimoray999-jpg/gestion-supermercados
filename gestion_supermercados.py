@@ -80,6 +80,7 @@ def mostrar_productos():
 # BUSCAR PRODUCTO
 # -------------------------
 
+# Función que busca un producto por su código y devuelve sus datos
 def buscar_producto(codigo):
 
     if codigo in productos:
