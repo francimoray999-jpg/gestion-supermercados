@@ -385,6 +385,7 @@ def finalizar_compra():
 # ESTADISTICAS
 # -------------------------
 
+# Función que muestra estadísticas de las ventas realizadas
 def estadisticas():
 
     print("\n========== ESTADISTICAS ==========")
